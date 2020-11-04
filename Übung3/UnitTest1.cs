@@ -8,7 +8,7 @@ namespace Übung3
         [Fact]
         public void Test1()
         {
-
+            int a;
         }
     }
 }
